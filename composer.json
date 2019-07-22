@@ -1,5 +1,5 @@
 {
-    "name": "bartlett/umlwriter",
+    "name": "uzielgl/umlwriter",
     "description": "Create UML class diagrams from your PHP source.",
     "keywords": ["UML", "Graphviz", "PlantUML"],
     "type": "library",
